@@ -20,7 +20,6 @@ public class Two {
      */
 
     public static int largestInArray(int arr[]){
-        
         if (arr == null || arr.length == 0) { // Return -1 if the array is null or empty
             return -1;
         }
