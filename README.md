@@ -6,5 +6,5 @@ documented and follows best coding practices, reflecting my analytical and probl
 One(23-06-2024):        Linear search implementation on array.  
 Two(24-06-2024):        Finding largest array element.  
 Three(25-06-2024):      Binary search implementation on array.  
-Four(26-06-2024):       Reverse an array.
+Four(26-06-2024):       Reverse an array.  
 Five(27-06-2024):       Finds and prints all possible pairs in given array.   
