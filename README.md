@@ -9,3 +9,4 @@ Welcome to my DSA-DailyGrind repository! Here, I tackle a new data structure or 
 - **Four (26-06-2024)**: &emsp; Reverse an array.  
 - **Five (27-06-2024)**: &emsp; Finds and prints all possible pairs in given array.  
 - **Six (28-06-2024)**: &emsp;  Finds and prints all possible sub-arrays in given array.  
+- **Seven (29-06-2024)**: &emsp;Array self-concatenation (Leetcode problem No.:1929)
