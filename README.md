@@ -10,3 +10,4 @@ Welcome to my DSA-DailyGrind repository! Here, I tackle a new data structure or 
 - **Five (27-06-2024)**: &emsp;&emsp; Finds and prints all possible pairs in given array.  
 - **Six (28-06-2024)**: &emsp;&emsp;  Finds and prints all possible sub-arrays in given array.  
 - **Seven (29-06-2024)**: &emsp;&emsp;Array self-concatenation (Leetcode problem No.:1929)
+- **Eight (30-06-2024)**: &emsp;&emsp;Array shuffling in specific order (Leetcode problem No.:1470)
